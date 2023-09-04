@@ -13,6 +13,7 @@
 - [Modbus Protocol](#modbus-protocol)
 - [Injection Techniques](#injection-techniques)
 - [Project Objectives](#project-objectives)
+- [System architecture](#system-architecture)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
   - [Investigating the Protocol](#investigating-the-protocol)
@@ -28,6 +29,11 @@ This README provides an overview of the Modbus Protocol Data Exfiltration Projec
 - Modbus TCP is a widely used communication protocol in industrial automation and control systems, facilitating seamless data exchange over Ethernet networks.
 - The project explores the Modbus communication protocol, which involves query/response (master/slave) and broadcast methods.
 - Injection techniques are employed to manipulate Modbus packets while maintaining data integrity and avoiding errors.
+
+##  System architecture
+| System architecture |
+| :---: |
+| <img src="pics/arch.png" alt="arch" width="700" align="center" /> |
 
 ## Modbus Protocol
 
